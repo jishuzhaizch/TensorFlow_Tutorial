@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aff987b9-b795-4e73-8c40-a955f580192b" name="Default Changelist" comment="" />
+    <list default="true" id="aff987b9-b795-4e73-8c40-a955f580192b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-变量的定义及其操作.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
@@ -20,12 +22,32 @@
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/4-线性回归.ipynb">
           <provider selected="true" editor-type-id="jupyter-editor" />
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/8-学习率的调整与TensorBoard.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/9-卷积神经网络（CNN）.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/10-循环神经网络（RNN）.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>n_inputs</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,8 +63,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="160" />
-    <option name="y" value="37" />
+    <option name="x" value="2242" />
+    <option name="y" value="-14" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -66,6 +88,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -96,16 +119,18 @@
       <updated>1585061577682</updated>
       <workItem from="1585061582559" duration="758000" />
       <workItem from="1585668682960" duration="1837000" />
+      <workItem from="1586963629829" duration="604000" />
+      <workItem from="1587182191909" duration="8172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2595000" />
+    <option name="totallyTimeSpent" value="11371000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18123667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13272922" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -139,6 +164,30 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/4-线性回归.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6-简单分类问题.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/7-Dropout与优化器.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/翟晨浩/课程/tensorflow/7-2递归神经网络RNN_资料.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/翟晨浩/课程/tensorflow/7-1第六周作业.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://D:/翟晨浩/课程/tensorflow/7-2递归神经网络RNN.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/8-学习率的调整与TensorBoard.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9-卷积神经网络（CNN）.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10-循环神经网络（RNN）.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
